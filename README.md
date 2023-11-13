@@ -9,6 +9,7 @@
 1. Open project in VS Code
 2. Open termial using " ctrl + ` "
 3. Execute the following commands
+   
    ```
    docker build -t image-name
    docker-compose up -d
