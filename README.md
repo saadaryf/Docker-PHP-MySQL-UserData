@@ -11,7 +11,7 @@
 3. Execute the following commands
    
    ```
-   docker build -t image-name
+   docker build -t my-php-app
    docker-compose up -d
    ```
 
