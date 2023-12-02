@@ -25,3 +25,7 @@
 8. Now visit localhost:8081 on your browser
 9. Fill in the required fields and submit the form
 10. After seeing the success message, visit database to verify data
+
+## Screenshots
+![ Screenshot1: Home Page ](Screenshot.png)
+![ Screenshot2: phpmyadmin ](Screenshot2.png)
