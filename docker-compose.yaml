@@ -23,7 +23,7 @@ services:
 
     php-app-container:
         build:
-          context: C:/Users/HP/Documents/VShtml/firstphp
+          context: .
         image: my-php-app
         ports:
           - 8081:80
